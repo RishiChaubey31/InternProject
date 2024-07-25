@@ -1,8 +1,7 @@
-# React + Vite
+# Suprsend-Notifs
+A React application that demonstrates how to integrate notifications using SuprSend. The application allows users to view notifications and handles the integration with SuprSend for sending and receiving notification events.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Features
+Notification Inbox: View a list of notifications.
+Integration with SuprSend: Demonstrates how to send and receive notifications using SuprSend.
+React and Vite Setup: Utilizes React for frontend development and Vite for fast build times.
